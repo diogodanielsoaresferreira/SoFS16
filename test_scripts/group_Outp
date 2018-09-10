@@ -1,0 +1,46 @@
+
+Header:
+   Magic number: 0x50F5
+   Version number: 0x2016
+   Volume name: SOFS16
+   Total number of blocks in the device: 503
+   Properly unmounted: yes
+Inode table metadata:
+   Total number of inodes: 112
+   First block of the inode table: 1
+   Number of blocks of the inode table: 14
+   Number of free inodes: 111
+   Head of list of free inodes: 1
+   Tail of list of free inodes: 111
+Data zone:
+   Number of blocks per cluster: 4
+   First block of the cluster zone: 15
+   Total number of clusters: 122
+   Number of free clusters: 120
+   Number of clusters used by list of free clusters: 1
+   FCT head cache of references to free data clusters:
+      Index of the first filled cache element: 0
+      Index of the first free cache element: 0
+      Cache contents:
+         (nil) (nil) (nil) (nil) (nil) (nil) (nil) (nil) (nil) (nil)
+         (nil) (nil) (nil) (nil) (nil) (nil) (nil) (nil) (nil) (nil)
+         (nil) (nil) (nil) (nil) (nil) (nil) (nil) (nil) (nil) (nil)
+         (nil) (nil) (nil) (nil) (nil) (nil) (nil) (nil) (nil) (nil)
+         (nil) (nil) (nil) (nil) (nil) (nil) (nil) (nil) (nil) (nil)
+        
+   FCT tail cache of references to free data clusters:
+      Index of the first free cache element: 0
+      Index of the first filled cache element: 0
+      Cache contents:
+         (nil) (nil) (nil) (nil) (nil) (nil) (nil) (nil) (nil) (nil)
+         (nil) (nil) (nil) (nil) (nil) (nil) (nil) (nil) (nil) (nil)
+         (nil) (nil) (nil) (nil) (nil) (nil) (nil) (nil) (nil) (nil)
+         (nil) (nil) (nil) (nil) (nil) (nil) (nil) (nil) (nil) (nil)
+         (nil) (nil) (nil) (nil) (nil) (nil) (nil) (nil) (nil) (nil)
+        
+   FCT head cluster of references to free clusters:
+     Cluster number: 1
+     Index of first filled entry: 0
+   FCT tail cluster of references to free clusters:
+     Cluster number: 1
+     Index of first empty entry: 120

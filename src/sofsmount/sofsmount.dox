@@ -1,0 +1,21 @@
+/**
+ *  \file sofsmount.dox
+ *
+ *  \brief The SOFS15 mounting tool.
+ *
+ *  It provides a simple method to integrate the SOFS15 file system into Linux.
+ *
+ *  SINOPSIS:
+ *  <P><PRE>                mount_sofs15 [OPTIONS] supp-file mount-point
+ *
+ *               OPTIONS:
+ *                 -d       --- set debugging mode (default: no debugging)
+ *                 -l depth --- set log depth (default: 0,0)
+ *                 -L file  --- log file (default: stdout)
+ *                 -h       --- print this help.</PRE>
+ *
+ *  \author Artur Pereira - 2005--2016
+ *  \author Miguel Oliveira e Silva -  2009
+ *  \author João Rodrigues - 2009
+ *  \author António Rui Borges - 2010--2015
+ */
